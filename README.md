@@ -1,5 +1,5 @@
 # pythonproject
-Check if a Number is Even or Odd
+Check if the Number is Even or Odd
 
 1. 	Takes an integer input from the user.
 2. 	Checks whether the number is even or odd using an if-else statement.
